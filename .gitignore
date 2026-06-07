@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Datasets and generated artifacts
+dataset/Reviews.csv
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+node_modules/
+dist/
+build/
+
+# Logs and temp files
+logs/
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
