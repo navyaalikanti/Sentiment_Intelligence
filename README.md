@@ -235,24 +235,6 @@ npm run dev
 - `GET /api/ml-evaluation`
 - `GET /api/unusual-reviews`
 
-## Screenshots
-
-Add public-facing screenshots here before release:
-
-- Dashboard
-- Analyze Review
-- NLP Playground
-- Dataset Analysis
-- Model Comparison
-- Model Evaluation
-- Unusual Reviews
-
-Recommended location:
-
-```text
-docs/screenshots/
-```
-
 ## Future Improvements
 
 - Add authenticated user sessions
@@ -262,7 +244,5 @@ docs/screenshots/
 - Add deployable production config for backend and frontend
 - Add Git LFS or external storage for large datasets if the full CSV should be shared publicly
 
-## License
 
-MIT License. See [`LICENSE`](LICENSE).
 
